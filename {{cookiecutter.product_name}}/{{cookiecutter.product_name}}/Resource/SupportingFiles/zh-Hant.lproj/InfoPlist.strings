@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  Demo
+
+  Created by SanW on 2023/12/13.
+  
+*/
+
+"CFBundleDisplayName" = "Demo";
+"NSPhotoLibraryUsageDescription" = "Please allow us to have your device’s album and storage permission to continue.";
+"NSPhotoLibraryAddUsageDescription" = "Please allow us to have your device’s album and storage permission to continue.";
+"NSUserNotificationsUsageDescription" = "Please allow us to have your device’s notice permission to receive pushes in time.";
+"NSLocationWhenInUseUsageDescription" = "Please allow us to have your device’s location permission to continue.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Please allow us to have your device’s location permission to continue.";
+"NSCameraUsageDescription" = "Please allow us to have your device’s camera permission to continue.";
